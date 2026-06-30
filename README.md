@@ -9,6 +9,9 @@ This project is a Natural Language Processing (NLP) based fake review detection 
 Online platforms often contain fake or misleading reviews that affect user decisions. This project aims to detect fraudulent reviews using NLP and machine learning techniques.
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard](images/dashborad2.png)
 
 ## ⚙️ Tech Stack
 - Python
