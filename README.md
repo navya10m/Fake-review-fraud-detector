@@ -9,9 +9,6 @@ This project is a Natural Language Processing (NLP) based fake review detection 
 Online platforms often contain fake or misleading reviews that affect user decisions. This project aims to detect fraudulent reviews using NLP and machine learning techniques.
 
 ---
-## 📊 Dashboard Preview
-
-![Dashborad](images/dashborad2.png)
 
 ## ⚙️ Tech Stack
 - Python
@@ -46,6 +43,12 @@ The dataset contains the following features:
 
 ---
 
+## 📊 Dashboard Preview
+
+![dashborad](images/dashborad2.png)
+
+---
+
 ## 🧠 Key Insight
 Lexical patterns, repetition, and sentiment inconsistencies are strong indicators of fake reviews.
 
@@ -60,6 +63,3 @@ Lexical patterns, repetition, and sentiment inconsistencies are strong indicator
 
 ## 👩‍💻 Author
 Navya M
-
----
-
