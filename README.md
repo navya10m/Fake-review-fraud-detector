@@ -11,7 +11,7 @@ Online platforms often contain fake or misleading reviews that affect user decis
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashborad2.png)
+![Dashborad](images/dashborad2.png)
 
 ## ⚙️ Tech Stack
 - Python
