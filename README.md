@@ -1,10 +1,14 @@
 # Fake Review Fraud Detector
 
 ## 📌 Overview
-NLP-based fake review detection system using sentiment analysis, lexical diversity, and text pattern analysis. The model classifies reviews as fake or real using machine learning techniques.
+This project is a Natural Language Processing (NLP) based fake review detection system. It uses machine learning techniques such as TF-IDF and Logistic Regression to classify reviews as fake or real.
+
+---
 
 ## 🧠 Problem Statement
-Online platforms often contain fake reviews that mislead users. This project aims to detect fraudulent reviews using NLP and machine learning.
+Online platforms often contain fake or misleading reviews that affect user decisions. This project aims to detect fraudulent reviews using NLP and machine learning techniques.
+
+---
 
 ## ⚙️ Tech Stack
 - Python
@@ -13,30 +17,46 @@ Online platforms often contain fake reviews that mislead users. This project aim
 - TF-IDF Vectorizer
 - Logistic Regression
 
+---
+
 ## 📊 Dataset
+The dataset contains the following features:
 - category
 - rating
 - text_
 - label (fake/real)
 
+---
+
 ## 🔄 Workflow
-1. Data Collection
-2. Text Cleaning
-3. Feature Extraction (TF-IDF)
-4. Model Training
-5. Evaluation
+1. Data Collection  
+2. Data Cleaning  
+3. Feature Extraction (TF-IDF)  
+4. Model Training  
+5. Evaluation  
+
+---
 
 ## 📈 Model Performance
 - Accuracy: ~90%
-- Evaluation: Confusion Matrix + Classification Report
+- Evaluation Metrics: Confusion Matrix, Classification Report
+
+---
 
 ## 🧠 Key Insight
-Text patterns and lexical features are strong indicators of fake reviews.
+Lexical patterns, repetition, and sentiment inconsistencies are strong indicators of fake reviews.
+
+---
 
 ## 🚀 Future Improvements
-- Deep Learning (LSTM / BERT)
-- Web app deployment using Streamlit
+- Implement Deep Learning models (LSTM, BERT)
+- Deploy as a web app using Streamlit
 - Real-time review detection system
+
+---
 
 ## 👩‍💻 Author
 Navya M
+
+---
+
