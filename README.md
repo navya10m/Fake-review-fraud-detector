@@ -45,8 +45,7 @@ The dataset contains the following features:
 
 ## 📊 Dashboard Preview
 
-![dashboard](images/dashboard2.png)
-
+![Dashboard](images/dashborad2.png.png)
 ---
 
 ## 🧠 Key Insight
