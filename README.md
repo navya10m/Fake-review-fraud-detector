@@ -45,7 +45,7 @@ The dataset contains the following features:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard2.png)
+![Dashboard](images/dashboard2.png.png)
 
 ## 🧠 Key Insight
 Lexical patterns, repetition, and sentiment inconsistencies are strong indicators of fake reviews.
