@@ -45,7 +45,7 @@ The dataset contains the following features:
 
 ## 📊 Dashboard Preview
 
-![dashborad](images/dashborad2.png)
+![dashboard](images/dashboard2.png)
 
 ---
 
