@@ -82,7 +82,7 @@ At a 0.7 threshold, 22–30% of reviews per category are flagged, with average c
 
 ## Dashboard
 
-![Dashboard Preview](dashborad2.png.png)
+![Dashboard Preview](Dashboard.png)
 
 Interactive Power BI dashboard with category, rating, and label filters — showing generic phrase usage, lexical diversity, rating distribution, category vulnerability ranking, and flagged review counts.
 
